@@ -1,0 +1,58 @@
+.sideBarContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(226, 226, 226);
+    height: 100vh;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 10px 0px 10px;
+}
+
+.yebotton {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    border: none;
+    background-color: #E9FF33;
+}
+
+.grbotton {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    border: none;
+    background-color: #5BFF33;
+}
+
+.lbbotton {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    border: none;
+    background-color: #33FFCA;
+}
+
+.dbbotton {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    border: none;
+    background-color: #3386FF;
+}
+
+.pubotton {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    border: none;
+    background-color: #BB33FF;
+}
+
+.pibotton {
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    border: none;
+    background-color: #FF33E9;
+}

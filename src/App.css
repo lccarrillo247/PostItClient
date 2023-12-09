@@ -1,3 +1,15 @@
+.titulo {
+  background-color: aqua;
+  margin: 0px 0px 0px 0px;
+  padding: 10px 0px 10px 0px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
 .App {
   text-align: center;
 }

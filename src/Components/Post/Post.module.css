@@ -1,0 +1,53 @@
+.PostYe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E9FF33;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.PostGr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5BFF33;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.PostLb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #33FFCA;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.PostDb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3386FF;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.PostPu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #BB33FF;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.PostPi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF33E9;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
